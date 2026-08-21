@@ -1,4 +1,4 @@
-surfacemap
+Surfacemap
 
 Attack surface scanner with a RAG layer that explains findings in plain English.
 
